@@ -6,7 +6,7 @@
       </h1>
       <p class="text-xl p-4">
         We're almost there!
-        If you're seeing this, it's because you haven't configured API access yet.
+        If you're seeing this, it's because you have not configured API access yet.
       </p>
     </div>
   </div>
