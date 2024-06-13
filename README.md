@@ -2,7 +2,7 @@
 
 Is for exploration of TaxonPages for the
 [Purdue Entomological Research Collection (PERC)](https://ag.purdue.edu/department/entm/perc/)
-and hosting via GitHub Pages.
+and hosting via GitHub Pages, configured following [these instructions](https://github.com/SpeciesFileGroup/taxonpages).
 
 ---
 
