@@ -1,38 +1,39 @@
 /*
  * Specified by https://marcom.purdue.edu/toolbox/digital-media/web-templates/
  * downloaded from https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css
+ * and edited to add global font URLs.
  */
 
 /* Regular */
 
 @font-face {
 	font-family: 'United Sans';
-	src: url('UnitedSansRgLt.woff2') format('woff2'),
-		 url('UnitedSansRgLt.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgLt.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgLt.woff') format('woff');
 	font-weight: 100;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans';
-	src: url('UnitedSansRgMd.woff2') format('woff2'),
-		 url('UnitedSansRgMd.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgMd.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgMd.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans';
-	src: url('UnitedSansRgBd.woff2') format('woff2'),
-		 url('UnitedSansRgBd.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgBd.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgBd.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans';
-	src: url('UnitedSansRgHv.woff2') format('woff2'),
-		 url('UnitedSansRgHv.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgHv.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgHv.woff') format('woff');
 	font-weight: 900;
 	font-style: normal;
 }
@@ -41,32 +42,32 @@
 
 @font-face {
 	font-family: 'United Sans Condensed';
-	src: url('UnitedSansCdLt.woff2') format('woff2'),
-		 url('UnitedSansCdLt.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdLt.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdLt.woff') format('woff');
 	font-weight: 100;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans Condensed';
-	src: url('UnitedSansCdMd.woff2') format('woff2'),
-		 url('UnitedSansCdMd.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdMd.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdMd.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans Condensed';
-	src: url('UnitedSansCdBd.woff2') format('woff2'),
-		 url('UnitedSansCdBd.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdBd.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdBd.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans Condensed';
-	src: url('UnitedSansCdHv.woff2') format('woff2'),
-		 url('UnitedSansCdHv.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdHv.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansCdHv.woff') format('woff');
 	font-weight: 900;
 	font-style: normal;
 }
@@ -75,32 +76,32 @@
 
 @font-face {
 	font-family: 'United Sans Extended';
-	src: url('UnitedSansEXLt.woff2') format('woff2'),
-		 url('UnitedSansExLt.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansEXLt.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExLt.woff') format('woff');
 	font-weight: 100;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans Extended';
-	src: url('UnitedSansExMd.woff2') format('woff2'),
-		 url('UnitedSansExMd.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExMd.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExMd.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans Extended';
-	src: url('UnitedSansExBd.woff2') format('woff2'),
-		 url('UnitedSansExBd.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExBd.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExBd.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'United Sans Extended';
-	src: url('UnitedSansExHv.woff2') format('woff2'),
-		 url('UnitedSansExHv.woff') format('woff');
+	src: url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExHv.woff2') format('woff2'),
+		 url('https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansExHv.woff') format('woff');
 	font-weight: 900;
 	font-style: normal;
 }
