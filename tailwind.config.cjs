@@ -23,7 +23,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        main: ['Roboto', 'sans-serif']
+        main: ['United Sans', 'sans-serif']
       },
       colors: {
         base: {
