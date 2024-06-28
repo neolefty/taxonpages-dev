@@ -14,6 +14,7 @@ _{{frontmatter.lead}}_
 Welcome to *{{ frontmatter.title }}*, which lets you search the [Purdue Entomology Research Collection](https://www.entm.purdue.edu/PERC/) via  [TaxonWorks](https://taxonworks.org).
 
 ## Announcements
+* 6/28/2024 - Did a little merging
 * 6/21/2024 - It's working!
 
 ## Find out more
