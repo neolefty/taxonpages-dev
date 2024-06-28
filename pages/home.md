@@ -1,7 +1,8 @@
 ---
 title: PERC Prototype
-lead: A prototype TaxonPages instance for [PERC](https://ag.purdue.edu/department/entm/perc/)
+lead: Search the Purdue Entomology Research Collection using TaxonPages
 project: Purdue Entomology Research Collection
+link: https://www.entm.purdue.edu/PERC/
 ---
    
 # {{frontmatter.title}}
@@ -11,7 +12,7 @@ _{{frontmatter.lead}}_
 <autocomplete-otu class="w-80"/>
 
 ## Overview
-Welcome to *{{ frontmatter.project }}*, a website of taxon pages generated from the {{ frontmatter.project }}, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org). 
+Welcome to *{{ frontmatter.title }}*, a website of taxon pages generated from the [{{ frontmatter.project }}]({{ frontmatter.link}}), a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org).
 
 ## Announcements
 * 6/21/2024 - It's working!
