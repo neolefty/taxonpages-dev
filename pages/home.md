@@ -20,7 +20,7 @@ Welcome to *{{ frontmatter.title }}*, which lets you search a different database
    * Connected to PERC section of TaxonWorks, which doesn't have data yet, so search results are blank for now.
    * [Published to Purdue Github Pages](https://pages.github.itap.purdue.edu/wbbaker/taxonpages/), but [actions](https://docs.github.com/en/actions) are not working
   
-* **6/21/2024** – It's working on [Github Pages](https://pages.github.com/) here: https://neolefty.github.io/taxonpages/
+* **6/21/2024** – It's working on [Github Pages](https://pages.github.com/) (location omitted for debugging)
 
 ## Find out more
 Learn how to collaborate with the {{ frontmatter.title }} project. Contact information, technical details, and more are available at [About](/about).
