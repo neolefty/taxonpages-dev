@@ -1,6 +1,6 @@
 ---
 title: PERC Dev Prototype
-lead: Search the a different collection using TaxonPages
+lead: Search a collection using TaxonPages
 project: Purdue Entomology Research Collection
 ---
    
