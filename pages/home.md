@@ -1,6 +1,6 @@
 ---
-title: PERC Prototype
-lead: Search the Purdue Entomology Research Collection using TaxonPages
+title: PERC Dev Prototype
+lead: Search the a different collection using TaxonPages
 project: Purdue Entomology Research Collection
 ---
    
@@ -11,11 +11,12 @@ _{{frontmatter.lead}}_
 <autocomplete-otu class="w-80"/>
 
 ## Overview
-Welcome to *{{ frontmatter.title }}*, which lets you search the [Purdue Entomology Research Collection](https://www.entm.purdue.edu/PERC/) via  [TaxonWorks](https://taxonworks.org).
+Welcome to *{{ frontmatter.title }}*, which lets you search a different database temporarily until the [Purdue Entomology Research Collection](https://www.entm.purdue.edu/PERC/) [TaxonWorks](https://taxonworks.org) database is populated.
 
 ## Announcements
 
 * **7/8/2024**
+   * Dev site published temporarily.
    * Connected to PERC section of TaxonWorks, which doesn't have data yet, so search results are blank for now.
    * [Published to Purdue Github Pages](https://pages.github.itap.purdue.edu/wbbaker/taxonpages/), but [actions](https://docs.github.com/en/actions) are not working
   

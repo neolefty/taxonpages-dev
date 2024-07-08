@@ -1,5 +1,7 @@
 # This Fork of [TaxonPages](https://github.com/SpeciesFileGroup/taxonpages)
 
+Is the **dev branch** deployed to https://neolefty.github.io/taxonpages-dev/ with data from a populated database that is _not_ PERC. Temporary setup for testing and development.
+
 Is for exploration of TaxonPages for the
 [Purdue Entomological Research Collection (PERC)](https://ag.purdue.edu/department/entm/perc/)
 and hosting via GitHub Pages, configured following [these instructions](https://github.com/SpeciesFileGroup/taxonpages).
