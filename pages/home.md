@@ -16,7 +16,7 @@ Welcome to *{{ frontmatter.title }}*, which lets you search a different database
 ## Announcements
 
 * **7/8/2024**
-   * Dev site published temporarily.
+   * Dev site published temporarily: https://neolefty.github.io/taxonpages-dev/
    * Connected to PERC section of TaxonWorks, which doesn't have data yet, so search results are blank for now.
    * [Published to Purdue Github Pages](https://pages.github.itap.purdue.edu/wbbaker/taxonpages/), but [actions](https://docs.github.com/en/actions) are not working
   
